@@ -1,7 +1,7 @@
-# 🌟 Lumina Ai: Your Intelligent AI Chat Companion 
+#  <img src="./client/public/logo.png" alt="Lumina Ai Logo" width="28" style="vertical-align: middle;" /> Lumina Ai - Your Intelligent AI Chat Companion
 Unlock the power of AI conversations with Lumina Ai – an advanced ChatGPT-like application powered by Gemini API from Google.
 
-## 😎 Key Features
+## ✦ Features
 
 -  **Real-time AI Chat:** Engage in seamless conversations with the AI using Gemini API.
 -  **Advanced Image Recognition:** Utilize cutting-edge image recognition capabilities for enhanced interactions.
@@ -10,7 +10,7 @@ Unlock the power of AI conversations with Lumina Ai – an advanced ChatGPT-like
 -  **Real-time Streaming:** Experience live AI chat streaming for real-time responses.
 -  **Optimized Image Uploads:** Securely upload and optimize images with efficient handling.
 
-## ⚙️ Tech Stack used
+## ✦ Tech Stack
 
 - **Frontend:** ReactJS, CSS
 - **Backend:** Express.js, Node.js
@@ -18,8 +18,3 @@ Unlock the power of AI conversations with Lumina Ai – an advanced ChatGPT-like
 - **AI Integration:** Gemini API
 - **Authentication:** Clerk
 - **State Management:** React Query
-
-## 📬 Connect With Me
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhdamaan79/)
-[![twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mhdamaan79)
